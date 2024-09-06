@@ -13,6 +13,6 @@ A Tic-Tac-Toe game is a two-player game where each player takes turns marking a 
 5. Player indication : The game shows whose turn it is during gameplay.
 <br/><br/>
 # SCREENSHOTS<br/>
-![Tic-Tac-Toe Game Screenshot](./images/tic-tac-toe.png)
+![Tic-Tac-Toe Game Screenshot](./t01.png)
 
 
